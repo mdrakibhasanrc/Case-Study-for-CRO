@@ -68,7 +68,7 @@ i) Identified key drop-off points in the purchase journey.
 
 ii) Analyzed user demographics, device performance, and checkout abandonment trends.
 
-See Data Analysis Report( Note: I included a sample report to maintain confidentiality to  my previous client.):
+See Data Analysis Report( Note: I included a sample report to maintain confidentiality):
 
 https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
 
@@ -86,7 +86,7 @@ i) Reviewed website speed, user experience, and checkout flow.
 
 ii) Identified technical and design issues affecting conversions.
 
-See Full Audit Report ( Note: I included a sample report to maintain confidentiality to  my previous client.):
+See Full Audit Report ( Note: I included a sample report to maintain confidentiality.):
 
 https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
 
@@ -100,7 +100,7 @@ See Looker Studio Dashboard:
 
 Based on the data insights, we suggested:
 
-See My Recommendetion Report base Previous Analysis( Note: I included a sample report to maintain confidentiality to  my previous client.):
+See My Recommendetion Report base Previous Analysis( Note: I included a sample report to maintain confidentiality):
 
 https://docs.google.com/spreadsheets/d/1-2pRIYAKxQCtUcpuIifEG8-MyZXgHxphdPOD8pKoSMw/edit?gid=0#gid=0
 
