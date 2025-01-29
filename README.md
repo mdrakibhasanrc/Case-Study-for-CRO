@@ -1,4 +1,4 @@
-## Title: From Abandoned Carts to Higher Conversions: How TrendyWear Boosted Sales by 35%
+## Title: From Abandoned Carts to Higher Conversions: How Ajker deal Boosted Sales by 35%
 
 ## Client Details:
 
@@ -68,7 +68,9 @@ i) Identified key drop-off points in the purchase journey.
 
 ii) Analyzed user demographics, device performance, and checkout abandonment trends.
 
-See Data Analysis Report: https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
+See Data Analysis Report( Note: I included a sample report to maintain confidentiality to  my previous client.):
+
+https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
 
 ### 4. Behavioral Data Analysis (Hotjar & Clarity)
 
@@ -84,7 +86,9 @@ i) Reviewed website speed, user experience, and checkout flow.
 
 ii) Identified technical and design issues affecting conversions.
 
-See Full Audit Report: https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
+See Full Audit Report ( Note: I included a sample report to maintain confidentiality to  my previous client.):
+
+https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
 
 ### 5. Dashboard Creation (Looker Studio)
 
@@ -96,7 +100,9 @@ See Looker Studio Dashboard:
 
 Based on the data insights, we suggested:
 
-See My Recommendetion Report base Previous Analysis: 
+See My Recommendetion Report base Previous Analysis( Note: I included a sample report to maintain confidentiality to  my previous client.):
+
+https://docs.google.com/spreadsheets/d/1-2pRIYAKxQCtUcpuIifEG8-MyZXgHxphdPOD8pKoSMw/edit?gid=0#gid=0
 
 ## Results:
 
