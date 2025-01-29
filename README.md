@@ -2,11 +2,11 @@
 
 ## Client Details:
 
-Business Name: TrendyWear Accessories
+Business Name: Ajker Deal
 
 Industry: Apparel & Accessories (E-commerce)
 
-Location: United States
+Location: Bangladesh
 
 Business Model: Direct-to-Consumer (DTC) online store
 
@@ -84,7 +84,7 @@ i) Reviewed website speed, user experience, and checkout flow.
 
 ii) Identified technical and design issues affecting conversions.
 
-See Full Audit Report: 
+See Full Audit Report: https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
 
 ### 5. Dashboard Creation (Looker Studio)
 
