@@ -68,7 +68,7 @@ i) Identified key drop-off points in the purchase journey.
 
 ii) Analyzed user demographics, device performance, and checkout abandonment trends.
 
-See Data Analysis Report: 
+See Data Analysis Report: https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
 
 ### 4. Behavioral Data Analysis (Hotjar & Clarity)
 
@@ -115,6 +115,9 @@ By using a data-driven CRO strategy, we helped the client overcome their challen
 This case study shows how analyzing user behavior and making simple improvements can lead to higher conversions.
 
 Prepared By:
+
 Md Rakib Hasan
+
 Digital Analytics & CRO Expert
+
 Email: mdrakibhasan.ru@gmail.com
