@@ -1,4 +1,4 @@
-## Title: From Abandoned Carts to Higher Conversions: How Ajker deal Boosted Sales by 35%
+## How Ajker deal Boosted Sales by 30%
 
 ## Client Details:
 
@@ -43,18 +43,16 @@ i) Google Analytics 4 (GA4) – To track website traffic, conversion rates, and 
 
 ii) BigQuery – For advanced data analysis and deeper insights into customer behavior.
 
-iii) Hotjar – To analyze heatmaps and session recordings for usability issues.
+iii) Microsoft Clarity – To track user interactions and identify friction points.
 
-iv) Microsoft Clarity – To track user interactions and identify friction points.
-
-v) Looker Studio – To create a visual dashboard for easy performance tracking.
+iv) Looker Studio – To create a visual dashboard for easy performance tracking.
 
 
 ## My Approach to solve this issues:
 
 ### 1. Initial Consultation & Discovery
 
-We started with a detailed discussion to understand the client’s pain points, business goals, and customer behavior.
+I started with a detailed discussion to understand the client’s pain points, business goals, and customer behavior.
 
 ### 2. Data Integration & Setup
 
@@ -68,9 +66,7 @@ i) Identified key drop-off points in the purchase journey.
 
 ii) Analyzed user demographics, device performance, and checkout abandonment trends.
 
-See Data Analysis Report( Note: I included a sample report to maintain confidentiality):
-
-https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
+See Data Analysis Sample Report:https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
 
 ### 4. Behavioral Data Analysis (Hotjar & Clarity)
 
@@ -86,9 +82,7 @@ i) Reviewed website speed, user experience, and checkout flow.
 
 ii) Identified technical and design issues affecting conversions.
 
-See Full Audit Report ( Note: I included a sample report to maintain confidentiality.):
-
-https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
+See Full Sample Audit Report: https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
 
 ### 5. Dashboard Creation (Looker Studio)
 
@@ -100,9 +94,7 @@ See Looker Studio Dashboard:
 
 Based on the data insights, we suggested:
 
-See My Recommendetion Report base Previous Analysis( Note: I included a sample report to maintain confidentiality):
-
-https://docs.google.com/spreadsheets/d/1-2pRIYAKxQCtUcpuIifEG8-MyZXgHxphdPOD8pKoSMw/edit?gid=0#gid=0
+See My Recommendetion Sample Report base Previous Analysis :  https://docs.google.com/spreadsheets/d/1-2pRIYAKxQCtUcpuIifEG8-MyZXgHxphdPOD8pKoSMw/edit?gid=0#gid=0
 
 ## Results:
 
@@ -117,13 +109,13 @@ iii)25% Increase in Monthly Revenue
 iv) Improved Mobile User Experience – Faster page loads and better engagement.
 
 
-By using a data-driven CRO strategy, we helped the client overcome their challenges and significantly boost sales. 
-This case study shows how analyzing user behavior and making simple improvements can lead to higher conversions.
+### By using a data-driven CRO strategy, we helped the client overcome their challenges and significantly boost sales. 
+### This case study shows how analyzing user behavior and making simple improvements can lead to higher conversions.
 
 Prepared By:
 
 Md Rakib Hasan
 
-Digital Analytics & CRO Expert
+Data Driven CRO Expert
 
 Email: mdrakibhasan.ru@gmail.com
