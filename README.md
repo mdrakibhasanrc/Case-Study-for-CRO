@@ -1,8 +1,8 @@
-## How Ajker deal Boosted Sales by 30%
+## How Asr World Fashion Boosted Sales by 30%
 
 ## Client Details:
 
-Business Name: Ajker Deal
+Business Name: Asr World Fashion
 
 Industry: Apparel & Accessories (E-commerce)
 
@@ -66,7 +66,7 @@ i) Identified key drop-off points in the purchase journey.
 
 ii) Analyzed user demographics, device performance, and checkout abandonment trends.
 
-See Data Analysis Sample Report:https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
+See Data Analysis Sample Report: https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
 
 ### 4. Behavioral Data Analysis (Hotjar & Clarity)
 
