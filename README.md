@@ -68,7 +68,7 @@ Phase 3: Data Analysis (GA4 & BigQuery)
           
           ii) Analyze user demographics, device performance, and checkout abandonment trends.
           
-#### Sample Report: [GA4 Data Analysis Using BigQuery Project for CRO](https://tinyurl.com/4aufb63n)
+###### Sample Report: [GA4 Data Analysis Using BigQuery Project for CRO](https://tinyurl.com/4aufb63n)
 
 Phase 4: Behavioral Data Analysis (Hotjar & Clarity)
 
@@ -76,7 +76,7 @@ Phase 4: Behavioral Data Analysis (Hotjar & Clarity)
           
           ii) Identify issues like hidden CTAs and long forms.
           
-#### Sample Report: Behavioral Data Analysis Report
+###### Sample Report: Behavioral Data Analysis Report
 
 Phase 5: Website Audit for UX Experience
 
@@ -84,19 +84,19 @@ Phase 5: Website Audit for UX Experience
           
           ii) Identify technical and design issues affecting conversions.
           
-#### Sample Report: [Website Audit Report](https://tinyurl.com/yckkcr4j)
+###### Sample Report: [Website Audit Report](https://tinyurl.com/yckkcr4j)
 
 Phase 6: Dashboard Creation (Looker Studio)
 
             i) Build an easy-to-use dashboard to track cart abandonment, conversion rates, and user engagement.
             
-#### Dashboard: Looker Studio Dashboard Link
+###### Dashboard: Looker Studio Dashboard Link
 
 Phase 7: Recommendations & Action Plan
 
         i) Suggest actionable recommendations based on data insights.
         
-#### Sample Report: [Recommendations Report](https://tinyurl.com/bde6s96u)
+###### Sample Report: [Recommendations Report](https://tinyurl.com/bde6s96u)
 
 
 ## Results:
@@ -112,8 +112,8 @@ After implementing the recommended changes, the client saw:
         iv) Improved Mobile User Experience – Faster page loads and better engagement.
 
 
-### By using a data-driven CRO strategy, we helped the client overcome their challenges and significantly boost sales. 
-### This case study shows how analyzing user behavior and making simple improvements can lead to higher conversions.
+#### By using a data-driven CRO strategy, we helped the client overcome their challenges and significantly boost sales. 
+#### This case study shows how analyzing user behavior and making simple improvements can lead to higher conversions.
 
 Prepared By:
 
