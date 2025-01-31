@@ -50,36 +50,53 @@ iv) Looker Studio – To create a visual dashboard for easy performance tracking
 
 ## My Approach to solve this issues:
 
-Initial Consultation & Discovery
+Phase 1: Initial Consultation & Discovery:
+
 i) Discuss client’s pain points.
+
 ii) Understand business goals and customer behavior.
 
-Data Integration & Setup
+Phase 2: Data Integration & Setup
+
 i) GA4 & BigQuery: Connect for data storage and analysis.
+
 ii) Hotjar & Microsoft Clarity: Install for behavioral data capture.
 
-Data Analysis (GA4 & BigQuery)
+Phase 3: Data Analysis (GA4 & BigQuery)
+
 i) Identify key drop-off points in the purchase journey.
+
 ii) Analyze user demographics, device performance, and checkout abandonment trends.
+
 Sample Report: [GA4 Data Analysis Using BigQuery Project for CRO](https://tinyurl.com/4aufb63n)
 
-Behavioral Data Analysis (Hotjar & Clarity)
+Phase 4: Behavioral Data Analysis (Hotjar & Clarity)
+
 i) Use heatmaps and session recordings to identify user struggles.
+
 ii) Identify issues like hidden CTAs and long forms.
+
 Report: Behavioral Data Analysis Report
 
-Website Audit for UX Experience
-i) Review website speed, user experience, and checkout flow.
-ii) Identify technical and design issues affecting conversions.
-Sample Report: Website Audit Report
+Phase 5: Website Audit for UX Experience
 
-Dashboard Creation (Looker Studio)
+i) Review website speed, user experience, and checkout flow.
+
+ii) Identify technical and design issues affecting conversions.
+
+Sample Report: [Website Audit Report](https://tinyurl.com/yckkcr4j)
+
+Phase 6: Dashboard Creation (Looker Studio)
+
 i) Build an easy-to-use dashboard to track cart abandonment, conversion rates, and user engagement.
+
 Dashboard: Looker Studio Dashboard Link
 
-Recommendations & Action Plan
+Phase 7: Recommendations & Action Plan
+
 i) Suggest actionable recommendations based on data insights.
-Sample Report: Recommendations Report
+
+Sample Report: [Recommendations Report](https://tinyurl.com/bde6s96u)
 
 
 ## Results:
