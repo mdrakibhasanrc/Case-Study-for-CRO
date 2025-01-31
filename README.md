@@ -50,57 +50,43 @@ iv) Looker Studio – To create a visual dashboard for easy performance tracking
 
 ## My Approach to solve this issues:
 
-### 1. Initial Consultation & Discovery
+Initial Consultation & Discovery
+i) Discuss client’s pain points.
+ii) Understand business goals and customer behavior.
 
-I started with a detailed discussion to understand the client’s pain points, business goals, and customer behavior.
+Data Integration & Setup
+i) GA4 & BigQuery: Connect for data storage and analysis.
+ii) Hotjar & Microsoft Clarity: Install for behavioral data capture.
 
-### 2. Data Integration & Setup
+Data Analysis (GA4 & BigQuery)
+i) Identify key drop-off points in the purchase journey.
+ii) Analyze user demographics, device performance, and checkout abandonment trends.
+Sample Report: [GA4 Data Analysis Using BigQuery Project for CRO](https://tinyurl.com/4aufb63n)
 
-i) Connected GA4 with BigQuery for data storage and advanced analysis.
+Behavioral Data Analysis (Hotjar & Clarity)
+i) Use heatmaps and session recordings to identify user struggles.
+ii) Identify issues like hidden CTAs and long forms.
+Report: Behavioral Data Analysis Report
 
-ii) Installed Hotjar and Microsoft Clarity to capture behavioral data.
+Website Audit for UX Experience
+i) Review website speed, user experience, and checkout flow.
+ii) Identify technical and design issues affecting conversions.
+Sample Report: Website Audit Report
 
-### 3. Data Analysis (GA4 & BigQuery)
+Dashboard Creation (Looker Studio)
+i) Build an easy-to-use dashboard to track cart abandonment, conversion rates, and user engagement.
+Dashboard: Looker Studio Dashboard Link
 
-i) Identified key drop-off points in the purchase journey.
+Recommendations & Action Plan
+i) Suggest actionable recommendations based on data insights.
+Sample Report: Recommendations Report
 
-ii) Analyzed user demographics, device performance, and checkout abandonment trends.
-
-See Data Analysis Sample Report: https://github.com/mdrakibhasanrc/GA4-Data-Analysis-Using-Bigquery-Project-For-CRO
-
-### 4. Behavioral Data Analysis (Hotjar & Clarity)
-
-i) Used heatmaps and session recordings to pinpoint user struggles.
-
-ii) Found users hesitated due to hidden CTA buttons and lengthy checkout forms.
-
-See Behavioral Data Analysis Report:
-
-### 5. Website Audit for UX Experience
-
-i) Reviewed website speed, user experience, and checkout flow.
-
-ii) Identified technical and design issues affecting conversions.
-
-See Full Sample Audit Report: https://docs.google.com/spreadsheets/d/1WPq8dHXCDmPYMA_rhpLMHU23zDjHG14nuN6AMwdsvEo/edit?gid=906872785#gid=906872785
-
-### 5. Dashboard Creation (Looker Studio)
-
-Built an easy-to-use dashboard to track cart abandonment trends, conversion rates, and user engagement.
-
-See Looker Studio Dashboard:
-
-### 6. Recommendations & Action Plan
-
-Based on the data insights, we suggested:
-
-See My Recommendetion Sample Report base Previous Analysis :  https://docs.google.com/spreadsheets/d/1-2pRIYAKxQCtUcpuIifEG8-MyZXgHxphdPOD8pKoSMw/edit?gid=0#gid=0
 
 ## Results:
 
 After implementing the recommended changes, the client saw:
 
-i) 35% Increase in Conversion Rate
+i) 30% Increase in Conversion Rate
 
 ii) 40% Reduction in Cart Abandonment Rate
 
