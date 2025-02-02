@@ -1,4 +1,4 @@
-## How Asr World Fashion Boosted Sales by 30%
+## How Asr World Fashion Boosted Sales by 30% Through Data-Driven CRO Strategies
 
 ## Client Details:
 
@@ -20,9 +20,11 @@ Marketing Strategy: Social media ads, influencer collaborations, and email marke
 
 ## Problem: The client faced
 
-    i) A high cart abandonment rate (over 70%).
-    
-    ii) Low conversion rates despite good website traffic.
+Asr World Fashion faced two critical issues:
+
+        i) High Cart Abandonment Rate (Over 70%): Visitors added products to their carts but left without completing the purchase.
+        
+        ii) Low Conversion Rates Despite Good Traffic: Despite strong website traffic, the conversion rate was below industry standards.
 
 
 ## Challenges:
@@ -97,6 +99,36 @@ Phase 7: Recommendations & Action Plan
         i) Suggest actionable recommendations based on data insights.
         
 ###### Sample Report: [Recommendations Report](https://tinyurl.com/bde6s96u)
+
+## Key Recommendations Implemented:
+
+            i) Simplify the Checkout Process:
+            
+            Reduced the number of steps from 5 to 3.
+            
+            Added a guest checkout option.
+            
+            ii) Improve Mobile Optimization:
+            
+            Compressed images and optimized code to improve loading speed.
+            
+            Redesigned the mobile layout for better usability.
+            
+           iii)  Build Trust with Social Proof:
+            
+            Added customer reviews and ratings on product pages.
+            
+            Displayed trust badges (e.g., secure payment icons, return policy).
+            
+            iv) Retarget Abandoned Carts:
+            
+            Implemented email and SMS retargeting campaigns for users who left their carts.
+            
+           v)  Enhance CTAs and Navigation:
+            
+            Made CTAs more prominent and intuitive.
+            
+            Simplified navigation to reduce user friction.
 
 
 ## Results:
